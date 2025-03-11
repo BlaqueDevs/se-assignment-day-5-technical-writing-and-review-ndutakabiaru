@@ -21,7 +21,7 @@ using clear aand simple language
 use charts and diagrams to visually represent the complex things
 provide real life examples that audience can relate with
 break down complex information into small bits
-use headings and subheadings to guide the audience
+use headings and subheadings to guide the audience.
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 plain language is crucial for effective communication with audience as it is  clear to understand,save time as it is easily to understood therefore no need for research
